@@ -1,0 +1,29 @@
+
+@font-face{
+  font-display:swap;
+  font-family:"OTTOGISans";
+  font-style:normal;
+  font-weight:300;
+  src:url('../fonts/OttogiSans-Light.otf') format('opentype');
+}
+@font-face{
+  font-display:swap;
+  font-family:"OTTOGISans";
+  font-style:normal;
+  font-weight:500;
+  src:url('../fonts/OttogiSans-Medium.otf') format('opentype');
+}
+@font-face{
+  font-display:swap;
+  font-family:"OTTOGISans";
+  font-style:normal;
+  font-weight:600;
+  src:url('../fonts/OttogiSans-Bold.otf') format('opentype');
+}
+@font-face{
+  font-display:swap;
+  font-family:"OTTOGISans";
+  font-style:normal;
+  font-weight:900;
+  src:url('../fonts/OttogiSans-ExtraBold.otf') format('opentype');
+}
